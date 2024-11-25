@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="piratesofpenzance" size="0.300000 0.311875" />
+    <ImageTarget name="magiccard2" size="0.100000 0.137455" />
+    <ImageTarget name="magiccard1" size="0.100000 0.137884" />
+    <ImageTarget name="petitprince" size="0.100000 0.152267" />
+    <ImageTarget name="americanflag" size="1.200000 0.629412" />
+    <ImageTarget name="badimagetarget" size="0.300000 0.151113" />
+    <ImageTarget name="jack" size="0.100000 0.144092" />
+  </Tracking>
+</QCARConfig>
